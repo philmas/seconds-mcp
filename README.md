@@ -148,7 +148,7 @@ absolute path to this project's Python (the venv) so `seconds` is importable:
 {
   "mcpServers": {
     "seconds": {
-      "command": "/absolute/path/to/timelab-db-api/.venv/bin/python",
+      "command": "/absolute/path/to/folder/.venv/bin/python",
       "args": ["-m", "seconds.mcp_server"]
     }
   }
